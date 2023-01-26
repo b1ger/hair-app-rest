@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "@types/jest": "^23.3.12",
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "name": "ecomemerce-api",
+  "version": "1.0.0",
+  "description": "ecommerce-api",
+  "main": "index.js",
+  "author": "Bohdan H",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4",
+    "nodemon": "^2.0.20"
+  }
+}
